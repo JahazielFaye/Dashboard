@@ -11,3 +11,5 @@
 🌱 I'm especially excited to learn more about machine learning and artificial intelligence, and I'm always looking for new challenges and opportunities to grow as a developer.
 
 💬 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's build something awesome together!
+<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>
+<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
