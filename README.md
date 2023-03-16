@@ -1,3 +1,9 @@
+![JHZL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahazielFaye&theme=tokyonight&show_icons=true)
+
+
+
+
+
 # 🌌 Hi there! I'm a Full-Stack Web Developer 🌌
 
 🌟 Welcome to my GitHub profile! I'm excited to share my projects and contribute to the open-source community.
