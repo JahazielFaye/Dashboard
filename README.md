@@ -34,7 +34,7 @@
 
 
 
-## 🌌 Welcome to my GitHub profile! *I'm a Full-Stack Web Developer* & I'm excited to share my projects and contribute to the open-source community.
+## Welcome to my GitHub profile! *I'm a Full-Stack Web Developer* & I'm excited to share my projects and contribute to the open-source community.
 
 
 🔭 I aspire to be more skilled in all the aspects of full-stack web development, front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js, Express, and MongoDB.
