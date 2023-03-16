@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Full-Stack Web Developer 
+# 👋 Hi there! 
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JahazielFaye&theme=tokyonight&show_icons=true&hide=issues" />
@@ -38,10 +38,10 @@
 
 
 
-## 🌌 Welcome to my GitHub profile! I'm excited to share my projects and contribute to the open-source community.
+## 🌌 Welcome to my GitHub profile! *I'm a Full-Stack Web Developer* & I'm excited to share my projects and contribute to the open-source community.
 
 
-🔭 I'm skilled in all aspects of full-stack web development, including front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js, Express, and MongoDB.
+🔭 I aspire to be more skilled in all the aspects of full-stack web development, front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js, Express, and MongoDB.
 
 💻 I also have experience with React, GraphQL, and serverless architectures, which allow me to build fast, scalable, and modern web applications.
 
