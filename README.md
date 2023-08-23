@@ -1,7 +1,6 @@
 # 👋 Hi there! 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JahazielFaye&theme=tokyonight&show_icons=true&hide=issues" />
 
 
 <img align="left" height="205px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahazielFaye&layout=compact" />
